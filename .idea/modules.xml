@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seCodingChallenge.iml" filepath="$PROJECT_DIR$/seCodingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seCodingChallenge-grailsPlugins.iml" filepath="$PROJECT_DIR$/seCodingChallenge-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+

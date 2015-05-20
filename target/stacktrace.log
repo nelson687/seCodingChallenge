@@ -1,0 +1,545 @@
+2015-05-18 09:51:01,979 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@272027c1
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:51:01,982 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@272027c1
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:51:01,984 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@272027c1
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:51:01,984 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@272027c1
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:51:01,992 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@272027c1
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:51:01,992 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@272027c1
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:52:03,620 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@4226f770
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:52:03,623 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@4226f770
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:52:03,625 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@4226f770
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:52:03,625 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@4226f770
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:52:03,634 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@4226f770
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:52:03,634 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@4226f770
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:31)
+2015-05-18 09:54:04,504 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@21314252
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:54:04,507 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@21314252
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:54:04,510 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@21314252
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:54:04,510 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@21314252
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:54:04,523 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@21314252
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:54:04,523 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 1
+|         |                     |      |
+|         []                    0      false
+grails.plugin.greenmail.GreenMail@21314252
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:57:46,491 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 234
+|         |                     |      |
+|         |                     1      false
+|         [javax.mail.internet.MimeMessage@5b5e102d]
+grails.plugin.greenmail.GreenMail@127ca7a
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:57:46,495 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 234
+|         |                     |      |
+|         |                     1      false
+|         [javax.mail.internet.MimeMessage@5b5e102d]
+grails.plugin.greenmail.GreenMail@127ca7a
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:57:46,497 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 234
+|         |                     |      |
+|         |                     1      false
+|         [javax.mail.internet.MimeMessage@5b5e102d]
+grails.plugin.greenmail.GreenMail@127ca7a
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:57:46,498 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 234
+|         |                     |      |
+|         |                     1      false
+|         [javax.mail.internet.MimeMessage@5b5e102d]
+grails.plugin.greenmail.GreenMail@127ca7a
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:57:46,524 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 234
+|         |                     |      |
+|         |                     1      false
+|         [javax.mail.internet.MimeMessage@5b5e102d]
+grails.plugin.greenmail.GreenMail@127ca7a
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:57:46,525 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+greenMail.getReceivedMessages().length == 234
+|         |                     |      |
+|         |                     1      false
+|         [javax.mail.internet.MimeMessage@5b5e102d]
+grails.plugin.greenmail.GreenMail@127ca7a
+
+	at com.secretescapes.EmailTestsSpec.sdfsdf(EmailTestsSpec.groovy:30)
+2015-05-18 09:59:32,015 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@39aae53c
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore$run$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:149)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1086)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1031)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.callCurrent(PogoMetaClassSite.java:66)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:49)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:133)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:141)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner$_runAllTests_closure7.doCall(GrailsProjectTestRunner.groovy:313)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1086)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at groovy.lang.Closure.call(Closure.java:411)
+	at org.codehaus.groovy.runtime.DefaultGroovyMethods.callClosureForMapEntry(DefaultGroovyMethods.java:3873)
+	at org.codehaus.groovy.runtime.DefaultGroovyMethods.each(DefaultGroovyMethods.java:1354)
+	at org.codehaus.groovy.runtime.dgm$149.invoke(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoMetaMethodSiteNoUnwrapNoCoerce.invoke(PojoMetaMethodSite.java:271)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.call(PojoMetaMethodSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner$runAllTests$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2015-05-18 09:59:32,020 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@39aae53c
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 09:59:32,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@39aae53c
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 09:59:32,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@39aae53c
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 09:59:32,032 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@39aae53c
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 09:59:32,033 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@39aae53c
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:00:35,052 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@2930b6c9
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore$run$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:149)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1086)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1031)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.callCurrent(PogoMetaClassSite.java:66)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:49)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:133)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:141)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner$_runAllTests_closure7.doCall(GrailsProjectTestRunner.groovy:313)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1086)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at groovy.lang.Closure.call(Closure.java:411)
+	at org.codehaus.groovy.runtime.DefaultGroovyMethods.callClosureForMapEntry(DefaultGroovyMethods.java:3873)
+	at org.codehaus.groovy.runtime.DefaultGroovyMethods.each(DefaultGroovyMethods.java:1354)
+	at org.codehaus.groovy.runtime.dgm$149.invoke(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoMetaMethodSiteNoUnwrapNoCoerce.invoke(PojoMetaMethodSite.java:271)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.call(PojoMetaMethodSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner$runAllTests$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2015-05-18 10:00:35,055 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@2930b6c9
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:00:35,056 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@2930b6c9
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:00:35,056 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@2930b6c9
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:00:35,088 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@2930b6c9
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:00:35,089 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@2930b6c9
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:01:40,293 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@6bcc3a98
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore$run$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:149)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1086)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1031)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.callCurrent(PogoMetaClassSite.java:66)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:49)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:133)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:141)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner$_runAllTests_closure7.doCall(GrailsProjectTestRunner.groovy:313)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1086)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:910)
+	at groovy.lang.Closure.call(Closure.java:411)
+	at org.codehaus.groovy.runtime.DefaultGroovyMethods.callClosureForMapEntry(DefaultGroovyMethods.java:3873)
+	at org.codehaus.groovy.runtime.DefaultGroovyMethods.each(DefaultGroovyMethods.java:1354)
+	at org.codehaus.groovy.runtime.dgm$149.invoke(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoMetaMethodSiteNoUnwrapNoCoerce.invoke(PojoMetaMethodSite.java:271)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.call(PojoMetaMethodSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner$runAllTests$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2015-05-18 10:01:40,304 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@6bcc3a98
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:01:40,312 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@6bcc3a98
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:01:40,313 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@6bcc3a98
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:01:40,384 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@6bcc3a98
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:01:40,384 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@6bcc3a98
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:35)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+2015-05-18 10:06:37,075 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.secretescapes.PaymentController.event() is applicable for argument types: (java.lang.String, com.secretescapes.PaymentForm) values: [confirmationEmail, com.secretescapes.PaymentForm@4b797abf]
+Possible solutions: every(), every(groovy.lang.Closure), wait(), grep(), any(), find()
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:95)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at com.secretescapes.PaymentController.pay(PaymentController.groovy:20)
+	at com.secretescapes.PaymentControllerSpec.test I can make a transfer between two different accounts(PaymentControllerSpec.groovy:57)
+2015-05-18 10:06:37,102 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.secretescapes.PaymentController.event() is applicable for argument types: (java.lang.String, com.secretescapes.PaymentForm) values: [confirmationEmail, com.secretescapes.PaymentForm@4b797abf]
+Possible solutions: every(), every(groovy.lang.Closure), wait(), grep(), any(), find()
+	at com.secretescapes.PaymentController.pay(PaymentController.groovy:20)
+	at com.secretescapes.PaymentControllerSpec.test I can make a transfer between two different accounts(PaymentControllerSpec.groovy:57)
+2015-05-18 10:06:37,141 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.secretescapes.PaymentController.event() is applicable for argument types: (java.lang.String, com.secretescapes.PaymentForm) values: [confirmationEmail, com.secretescapes.PaymentForm@4b797abf]
+Possible solutions: every(), every(groovy.lang.Closure), wait(), grep(), any(), find()
+	at com.secretescapes.PaymentController.pay(PaymentController.groovy:20)
+	at com.secretescapes.PaymentControllerSpec.test I can make a transfer between two different accounts(PaymentControllerSpec.groovy:57)
+2015-05-18 10:06:37,161 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.secretescapes.PaymentController.event() is applicable for argument types: (java.lang.String, com.secretescapes.PaymentForm) values: [confirmationEmail, com.secretescapes.PaymentForm@4b797abf]
+Possible solutions: every(), every(groovy.lang.Closure), wait(), grep(), any(), find()
+	at com.secretescapes.PaymentController.pay(PaymentController.groovy:20)
+	at com.secretescapes.PaymentControllerSpec.test I can make a transfer between two different accounts(PaymentControllerSpec.groovy:57)
+2015-05-18 10:06:37,227 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.secretescapes.PaymentController.event() is applicable for argument types: (java.lang.String, com.secretescapes.PaymentForm) values: [confirmationEmail, com.secretescapes.PaymentForm@4b797abf]
+Possible solutions: every(), every(groovy.lang.Closure), wait(), grep(), any(), find()
+	at com.secretescapes.PaymentController.pay(PaymentController.groovy:20)
+	at com.secretescapes.PaymentControllerSpec.test I can make a transfer between two different accounts(PaymentControllerSpec.groovy:57)
+2015-05-18 10:06:37,235 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.secretescapes.PaymentController.event() is applicable for argument types: (java.lang.String, com.secretescapes.PaymentForm) values: [confirmationEmail, com.secretescapes.PaymentForm@4b797abf]
+Possible solutions: every(), every(groovy.lang.Closure), wait(), grep(), any(), find()
+	at com.secretescapes.PaymentController.pay(PaymentController.groovy:20)
+	at com.secretescapes.PaymentControllerSpec.test I can make a transfer between two different accounts(PaymentControllerSpec.groovy:57)
+2015-05-18 10:16:04,896 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+originAccount.balance == 200
+|             |       |
+|             100.00  false
+com.secretescapes.Account : 1
+
+	at com.secretescapes.PaymentIntSpec.test I can make a transfer between two different accounts(PaymentIntSpec.groovy:27)
+2015-05-18 10:16:04,903 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+originAccount.balance == 200
+|             |       |
+|             100.00  false
+com.secretescapes.Account : 1
+
+	at com.secretescapes.PaymentIntSpec.test I can make a transfer between two different accounts(PaymentIntSpec.groovy:27)
+2015-05-18 10:16:04,905 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+originAccount.balance == 200
+|             |       |
+|             100.00  false
+com.secretescapes.Account : 1
+
+	at com.secretescapes.PaymentIntSpec.test I can make a transfer between two different accounts(PaymentIntSpec.groovy:27)
+2015-05-18 10:16:04,906 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+originAccount.balance == 200
+|             |       |
+|             100.00  false
+com.secretescapes.Account : 1
+
+	at com.secretescapes.PaymentIntSpec.test I can make a transfer between two different accounts(PaymentIntSpec.groovy:27)
+2015-05-18 10:16:04,911 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+originAccount.balance == 200
+|             |       |
+|             100.00  false
+com.secretescapes.Account : 1
+
+	at com.secretescapes.PaymentIntSpec.test I can make a transfer between two different accounts(PaymentIntSpec.groovy:27)
+2015-05-18 10:16:04,919 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+originAccount.balance == 200
+|             |       |
+|             100.00  false
+com.secretescapes.Account : 1
+
+	at com.secretescapes.PaymentIntSpec.test I can make a transfer between two different accounts(PaymentIntSpec.groovy:27)
